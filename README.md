@@ -1,28 +1,35 @@
-# Matching_game
+# Matching Game (Eşleştirme Oyunu)
 
-Bu proje, kullanıcıların bir eşleştirme oyununu oynamalarına olanak tanır. Oyunun amacı, eşleşen kartları bulmak ve mümkün olduğunca yüksek bir skor elde etmektir.
+Bu basit web uygulaması, eğlenceli bir eşleştirme oyununu oynamanıza olanak tanır. Oyunun amacı, eşleşen kartları bulmak ve en yüksek puanı elde etmektir. Bu projenin amacı, HTML, CSS ve JavaScript kullanarak basit bir oyun geliştirmeyi göstermek ve öğrenmek içindir.
 
-[Uploading Ekran Resmi 2023-10-08 22.40.22.png…]()
+## Nasıl Oynanır?
 
-## Başlangıç
+1. Oyunu başlatmak için "Başlat" düğmesine tıklayın.
+2. Oyun süresince ekrandaki kartları tıklayarak açın.
+3. İki kartın içeriği aynı ise, bu kartları eşleştirmeye çalışın. Eşleşen her kart size puan kazandırır.
+4. Tüm kartları doğru bir şekilde eşleştirdiğinizde veya süre doluysa, oyun sona erer.
+5. Yüksek bir puan elde etmeye çalışın ve kazanın!
 
-Oyunu başlatmak için "Başlat" düğmesine tıklayın. Ardından, oyun alanında eşleştirme kartları görünecektir.
+## Özellikler
 
-## Nasıl Oynanır
+- Oyun süresini izler ve süre dolduğunda oyunu otomatik olarak sonlandırır.
+- Eşleşen kartları tanımlar ve puan kazandırır.
+- Farklı kart sayılarını destekler.
+- Ses efektleriyle oyun deneyimini daha eğlenceli hale getirir.
 
-- Oyun alanındaki kartlardan herhangi birine tıklayarak kartları çevirebilirsiniz.
-- İki kartı çevirdiğinizde, kartlar aynıysa puan kazanırsınız ve kartlar eşleştirildi olarak işaretlenir.
-- Kartlar eşleşmezse, kartlar tekrar kapanır ve puan kazanamazsınız.
-- Oyun süresi sınırlıdır. Süre bittiğinde, oyun sona erer.
+## Kurulum
 
-## Skor
-
-Oyunun skoru her başarılı eşleştirme için artar. İkinci ardışık başarılı eşleştirme, ekstra puan kazandırır.
-
-## Oyun Bitimi
-
-Oyun süresi dolduğunda veya tüm kartlar eşleştirildiğinde oyun sona erer. Sonuçları görüntülemek için "Başlat" düğmesine yeniden tıklayabilirsiniz.
+1. Bu projeyi bilgisayarınıza klonlayın veya ZIP dosyası olarak indirin.
+2. "FindPair.html" dosyasını bir web tarayıcısında açın.
 
 ## Katkıda Bulunma
 
-Bu proje açık kaynaklıdır. Her türlü katkıya açığız. Katkıda bulunmak isterseniz, lütfen bir çekme isteği gönderin veya hata bildiriminde bulunun.
+Eğer bu projeye katkıda bulunmak isterseniz, lütfen [GitHub deposunu](https://github.com/zehraarslan/Matching_game) ziyaret edin ve istediğiniz katkıları yapmak için bir çekme isteği gönderin.
+
+## Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LİSANS](LICENSE) dosyasını inceleyebilirsiniz.
+
+---
+
+Bu proje, [GitHub](https://github.com) kullanılarak geliştirilmiştir. GitHub hakkında daha fazla bilgi için [GitHub Yardım Kaynakları](https://docs.github.com/en)na başvurabilirsiniz.
