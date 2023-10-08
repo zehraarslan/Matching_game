@@ -30,10 +30,3 @@ Bu basit web uygulaması, eğlenceli bir eşleştirme oyununu oynamanıza olanak
 
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen [GitHub deposunu](https://github.com/zehraarslan/Matching_game) ziyaret edin ve istediğiniz katkıları yapmak için bir çekme isteği gönderin.
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LİSANS](LICENSE) dosyasını inceleyebilirsiniz.
-
----
-
-Bu proje, [GitHub](https://github.com) kullanılarak geliştirilmiştir. GitHub hakkında daha fazla bilgi için [GitHub Yardım Kaynakları](https://docs.github.com/en)na başvurabilirsiniz.
