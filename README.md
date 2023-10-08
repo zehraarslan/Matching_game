@@ -2,7 +2,7 @@
 
 Bu proje, kullanıcıların bir eşleştirme oyununu oynamalarına olanak tanır. Oyunun amacı, eşleşen kartları bulmak ve mümkün olduğunca yüksek bir skor elde etmektir.
 
-![Uploading Ekran Resmi 2023-10-08 22.40.22.png…]()
+[Uploading Ekran Resmi 2023-10-08 22.40.22.png…]()
 
 ## Başlangıç
 
