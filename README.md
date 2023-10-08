@@ -2,6 +2,10 @@
 
 Bu basit web uygulaması, eğlenceli bir eşleştirme oyununu oynamanıza olanak tanır. Oyunun amacı, eşleşen kartları bulmak ve en yüksek puanı elde etmektir. Bu projenin amacı, HTML, CSS ve JavaScript kullanarak basit bir oyun geliştirmeyi göstermek ve öğrenmek içindir.
 
+
+<img width="700" alt="Ekran Resmi 2023-10-08 22 40 22" src="https://github.com/zehraarslan/Matching_game/assets/48572250/75a5f4bf-9932-4da7-8182-f48d09d3e12d">
+
+
 ## Nasıl Oynanır?
 
 1. Oyunu başlatmak için "Başlat" düğmesine tıklayın.
