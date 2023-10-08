@@ -24,7 +24,3 @@ Oyun süresi dolduğunda veya tüm kartlar eşleştirildiğinde oyun sona erer. 
 ## Katkıda Bulunma
 
 Bu proje açık kaynaklıdır. Her türlü katkıya açığız. Katkıda bulunmak isterseniz, lütfen bir çekme isteği gönderin veya hata bildiriminde bulunun.
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
